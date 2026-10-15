@@ -14,3 +14,7 @@
     padding: 20px;
     text-align: center;
 }
+.site-main {
+    padding: 40px 20px;
+    min-height: 60vh;
+}
